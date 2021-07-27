@@ -1,1 +1,1 @@
-# codeChallengesNew
+This is my new repo I am going to use to track my progress thru CodeWars. I realized I wasn't good at solving problems so I decided to solve more problems. 
